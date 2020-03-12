@@ -1,0 +1,9 @@
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\bin\Debug\AutoFileSorter.exe.config
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\bin\Debug\AutoFileSorter.exe
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\bin\Debug\AutoFileSorter.pdb
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\obj\Debug\AutoFileSorter.csprojAssemblyReference.cache
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\obj\Debug\AutoFileSorter.Form1.resources
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\obj\Debug\AutoFileSorter.Properties.Resources.resources
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\obj\Debug\AutoFileSorter.csproj.GenerateResource.cache
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\obj\Debug\AutoFileSorter.exe
+G:\CodeRepos\AutoFileSorter\AutoFileSorter\obj\Debug\AutoFileSorter.pdb
